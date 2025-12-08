@@ -1,7 +1,7 @@
 add and remove users
 change the roles
 manage database
-closing the connection
+closing the database connection
 
 <<<<<<< HEAD
 change in my database
