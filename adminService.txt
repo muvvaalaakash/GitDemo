@@ -3,4 +3,8 @@ change the roles
 manage database
 closing the connection
 
+<<<<<<< HEAD
 change in my database
+=======
+Change1 in someone's database
+>>>>>>> feature3
